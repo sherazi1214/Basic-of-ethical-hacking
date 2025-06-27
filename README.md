@@ -24,5 +24,10 @@
 - **8. Confidentiality** – Ensuring that information is accessible only to those authorized to view it.-
 - **9. Integrity** – Guaranteeing that data remains accurate, consistent, and unaltered during storage or transfer.
 - **10. Availability** – Ensuring authorized users have continuous access to systems and data when needed.
+- **11. Authentication** – The process of verifying the identity of a user or system.
+- **12. Authorization** – The process of granting or denying access rights to resources after authentication.
+- **13. Accounting** – Tracking and recording user activities for auditing and monitoring purposes.
+- **14. Bug** – An error or flaw in software that causes unexpected or incorrect behavior.
+- **15. Loophole** – A gap or flaw in a system's design or policy that can be exploited to bypass security.
 
 
